@@ -4,9 +4,11 @@ Este repositório contém soluções para exercícios de lógica de programaçã
 
 ## Como usar este repositório
 Para utilizar este repositório, basta cloná-lo para o seu computador e abrir os arquivos com as soluções em Dart. É necessário ter o ambiente de desenvolvimento para Dart instalado em seu computador para executar os códigos.
+<br><br>
 
 ## Contribuindo
 Este repositório está aberto a contribuições! Se você encontrou um erro em uma das soluções, ou deseja adicionar uma nova solução para algum tipo de exercício que ainda não foi resolvido, sinta-se à vontade para criar uma pull request com as suas alterações.
+<br><br>
 
 ## Licença
 Este projeto está sob a licença MIT, para mais informações consulte o arquivo [LICENSE](LICENSE) .
