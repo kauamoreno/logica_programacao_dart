@@ -1,3 +1,13 @@
+/*
+
+Faça um programa que leia quatro notas de um aluno por parâmetro. Calcule e mostre na tela sua Média Aritmética.
+
+MediaAritmetica =
+
+(n1+n2+n3+n4) /4
+
+*/
+
 import 'dart:io';
 
 var nota1;
