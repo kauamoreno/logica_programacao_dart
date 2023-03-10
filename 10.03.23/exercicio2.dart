@@ -1,5 +1,5 @@
 /*
-Ler dois valores inteiros e exibir a mensagem “O maior valor é: ”, ou “Os valores são iguais”, conforme o caso.
+Ler dois valores inteiros e exibir a mensagem “O maior valor é: ”, ou “Os valores são iguais”, conforme o caso
 */
 
 import 'dart:io';

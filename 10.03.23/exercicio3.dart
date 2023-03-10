@@ -1,7 +1,7 @@
 /*
 Ler dois valores. Se o 1o número lido for maior que o 2o, escrever “O primeiro é maior”, somar os dois números e
 mostrar a soma na tela. Se o 2o for maior, escrever “O segundo é maior”, multiplicar um pelo outro e exibir este
-produto. Se os dois forem iguais, apenas imprimir: “Os números são iguais”. Exemplo:
+produto. Se os dois forem iguais, apenas imprimir: “Os números são iguais” Exemplo:
 
 - Digite um número: 10
 - Digite outro número: 20

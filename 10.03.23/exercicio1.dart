@@ -1,5 +1,5 @@
 /*
-Faça um programa que leia um número do tipo int. Mostre na tela se o número digitado é positivo, negativo ou zero.
+Faça um programa que leia um número do tipo int. Mostre na tela se o número digitado é positivo, negativo ou zero
 */
 
 import 'dart:io';
