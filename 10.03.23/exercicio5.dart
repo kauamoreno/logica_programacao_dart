@@ -40,5 +40,6 @@ void main() {
   double salarioAtualD = double.parse(salarioAtualS);
   
   double reajuste = salarioAtualD * aumento;
-  print("O seu novo salario é de: $reajuste");
+  print("O seu novo salario é de: " + reajuste.toStringAsFixed(2));
+  print("Nome: Kauã Amaral - Nascimento: 18/05/2005");
 }

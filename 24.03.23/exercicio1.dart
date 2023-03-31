@@ -22,5 +22,6 @@ void main() {
     }
   }
 
+  print("Nome: Kauã Amaral - Nascimento: 18/05/2005");
   print("\nPrograma Finalizado.............");
 }
