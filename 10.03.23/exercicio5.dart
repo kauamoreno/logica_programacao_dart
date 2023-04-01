@@ -39,7 +39,14 @@ void main() {
   salarioAtualS = stdin.readLineSync();
   double salarioAtualD = double.parse(salarioAtualS);
   
-  double reajuste = salarioAtualD * aumento;
+  calculaReajuste(salarioAtualD, aumento);
+}
+
+double calculaReajuste(salAtual, aumen){
+  
+  double reajuste = salAtual * aumen;
   print("O seu novo salario é de: " + reajuste.toStringAsFixed(2));
   print("Nome: Kauã Amaral - Nascimento: 18/05/2005");
+
+  return reajuste;
 }
