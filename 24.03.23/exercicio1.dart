@@ -5,7 +5,14 @@ void main() {
   var qtd = stdin.readLineSync();
   int qtdInt = int.parse(qtd!);
 
-  for (int x = 1; x <= qtdInt; x++) {
+  tabuadas(qtdInt);
+
+  print("Nome: Kauã Amaral - Nascimento: 18/05/2005");
+  print("\nPrograma Finalizado.............");
+}
+
+void tabuadas(qtd){
+  for (int x = 1; x <= qtd; x++) {
     print("\nTabuada: $x/$qtd");
 
     print("Digite a tabuada desejada: ");
@@ -21,7 +28,4 @@ void main() {
       print("$tabDesejInt x $i = $resultado");
     }
   }
-
-  print("Nome: Kauã Amaral - Nascimento: 18/05/2005");
-  print("\nPrograma Finalizado.............");
 }
